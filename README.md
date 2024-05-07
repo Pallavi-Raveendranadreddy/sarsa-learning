@@ -24,8 +24,8 @@ Step 5:
 Update State and Action and repeat the step 3 untill the episodes ends.
 ## SARSA LEARNING FUNCTION
 
-#### Developed by : Manoj Guna Sundar Tella.
-#### Ref No :212221240026
+#### Developed by : VALASAREDDY PALLAVI
+#### Ref No :212221240059
 ```
 def sarsa(env,
           gamma=1.0,
