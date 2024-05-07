@@ -62,11 +62,11 @@ def sarsa(env,
 ```
 ## OUTPUT:
 Mention the optimal policy, optimal value function , success rate for the optimal policy.
-![image](https://github.com/ManojTella/sarsa-learning/assets/94883876/5e842995-8a67-42e5-9e80-4934b9d21c9e)
+![image](https://github.com/Pallavi-Raveendranadreddy/sarsa-learning/assets/94294872/60703bed-8ff0-480c-9940-4c4049fe5605)
 
-![image](https://github.com/ManojTella/sarsa-learning/assets/94883876/4120773b-ee3a-4bf0-9b3a-b91ba7c64b39)
+![image](https://github.com/Pallavi-Raveendranadreddy/sarsa-learning/assets/94294872/61ec91c7-64e7-4988-b5ac-12b4e4054cf3)
 
-![image](https://github.com/ManojTella/sarsa-learning/assets/94883876/261394b4-00b0-49de-8f19-b71cf5b6dfec)
+![image](https://github.com/Pallavi-Raveendranadreddy/sarsa-learning/assets/94294872/052f8261-7aad-4c96-926b-594df9c8842d)
 
 
 
